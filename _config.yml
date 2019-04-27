@@ -1,4 +1,8 @@
-title: Your awesome title
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
+title: first
 author: Victor Zyryanov
 email: VooooooZ@ya.ru
 description: > # this means to ignore newlines until "baseurl:"
